@@ -1362,6 +1362,9 @@ section,
   position: relative;
   padding: 30px 0;
 }
+.justme {
+  border-radius: 10px;
+}
 
 .features-2 .phone-mockup img {
   max-width: 300px;
